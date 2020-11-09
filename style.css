@@ -1,0 +1,70 @@
+body {
+    background: url("Image/Space.jpg") center no-repeat fixed;
+    background-size: cover;
+    text-align: center;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.img-container {
+    text-align: center;
+    padding: 80px 0;
+}
+
+img {
+    width: 80%;    
+}
+
+.card {
+    background-color: rgba(240, 40, 14, 0.7);
+    width: 600px;
+    padding-top: 30px;
+    margin: 25px auto;
+    border-radius: 10px;
+}
+
+.bio {
+    background-color: rgba(9, 172, 17, 0.7);
+    color: white;
+    padding: 10px;
+}
+
+#quote {
+    font-style: italic;
+    margin-bottom: 30px;
+}
+
+.search-nav {
+    padding: 10px 0;
+}
+
+#search {
+    padding: 5px 15px;
+    background-color: #48743F;
+    color: white;
+}
+
+input {
+    height: 20px;
+}
+
+h1, h2 {
+    font-family: Papyrus, fantasy;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 5px 30px;
+}
+
+a:hover {
+    background-color: white;
+    color: #48743F;
+}
+
+#prev, #next {
+    background-color: white;
+    color: rgb(43, 51, 97);
+}

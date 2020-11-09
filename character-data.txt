@@ -1,0 +1,6 @@
+Darth Sidious;Power! Unlimited Power!;Sidious.png;Darth Sidious
+Darth Vader;I find your lack of faith disturbing.;Vader.png;Anakin_Skywalker
+Darth Malgus;I fight because that is what I was made to do and the Empire is the instrument through which I realize my purpose. The Empire is war made manifest. That is why it is perfect.;Malgus.png;Darth Malgus
+Darth Maul;My hatred kept my spirit intact even though my body was not.;Maul.png;Darth Maul
+Dooku;What if I told you that the Republic was now under the control of a dark lord of the Sith?;Dooku.png;Dooku
+
